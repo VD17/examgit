@@ -13,4 +13,4 @@ git tag : il en existe deux types l'un permet  de marquer l'etat d'un logiciel(t
 git --bare : permet de créer un serveur git 
 git remote : permet de lister les depots 
 git fetch : permet de recuperer un branche distante 
-git push : permet de publier des brancher distantes
+git push : Envoie tout les commit de la branche ciblé vers le dépot distants

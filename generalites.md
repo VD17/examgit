@@ -6,6 +6,6 @@ git config: faire un depot particulier dans un fichier precis
 git rm : supprimer des fichiers d'un index
 git log : montre l'historique du git 
 git ls : permet de montrer tous les fichiers suivis 
-git blame: permet de montrer les modifications
+git blame: permet de montrer les modificationss
 git mv : permet de changer de renommer 
 git help : permet d'afficher un liste de commandes realisables avec git 
